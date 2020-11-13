@@ -1,6 +1,6 @@
 # pyBomb
 <h3>a hangman game, but with a bomb instead.</h3><br>
-started on the 12th finished on the 13th of Nov 2020 <br>
+started on the 12th finished on the 13th Nov 2020 <br>
 made with Python3 <br>
 modules used: random, sys, os <br>
 executable made with <a href="http://www.pyinstaller.org/">pyinstaller</a>
